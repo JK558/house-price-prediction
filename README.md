@@ -8,13 +8,13 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 
 I'll use this public dataset to highlight some of key tasks involed in a data driven project:
 
-exploratory data analysis
-data wrangling
-feature engineering
-building ML models (regularized regression, decision tree, bagging and boosting models)
-feature selection and interpretation
-hyperparameters tuning
-model selection
+- exploratory data analysis
+- data wrangling
+- feature engineering
+- building ML models (regularized regression, decision tree, bagging and boosting models)
+- feature selection and interpretation
+- hyperparameters tuning
+- model selection
 
 ### Install
 
