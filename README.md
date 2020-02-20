@@ -68,4 +68,4 @@ Here's a brief version of what you'll find in the data description file.
 - ...
 
 
-see [data_description.txt] for more
+see [data_description.txt](https://github.com/JK558/house-price-prediction/blob/master/data_description.txt)  for more
